@@ -1,0 +1,17 @@
+com\geny\product\repository\ProductInfoRepository.class
+com\geny\product\enums\ResultEnum.class
+com\geny\product\service\ProductService.class
+com\geny\product\service\CategoryService.class
+com\geny\product\vo\ResultVO.class
+com\geny\product\entity\ProductInfo.class
+com\geny\product\repository\ProductCategoryRepository.class
+com\geny\product\exception\ProductException.class
+com\geny\product\service\impl\CategoryServiceImpl.class
+com\geny\product\entity\ProductCategory.class
+com\geny\product\utils\ResultVOUtil.class
+com\geny\product\vo\ProductInfoVO.class
+com\geny\product\service\impl\ProductServiceImpl.class
+com\geny\product\controller\ProductController.class
+com\geny\product\ProductApplication.class
+com\geny\product\enums\ProductStatusEnum.class
+com\geny\product\vo\ProductVO.class

@@ -1,0 +1,17 @@
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\controller\ProductController.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\vo\ProductVO.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\exception\ProductException.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\ProductApplication.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\service\CategoryService.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\service\ProductService.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\vo\ProductInfoVO.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\repository\ProductCategoryRepository.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\utils\ResultVOUtil.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\vo\ResultVO.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\service\impl\ProductServiceImpl.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\entity\ProductInfo.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\enums\ResultEnum.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\repository\ProductInfoRepository.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\entity\ProductCategory.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\service\impl\CategoryServiceImpl.java
+C:\project\GitHub\spring-cloud-sell\spring-cloud-product\product-server\src\main\java\com\geny\product\enums\ProductStatusEnum.java
