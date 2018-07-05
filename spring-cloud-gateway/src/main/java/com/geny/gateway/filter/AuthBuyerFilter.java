@@ -23,7 +23,7 @@ import static org.springframework.cloud.netflix.zuul.filters.support.FilterConst
  * @author shmilyahu
  * @date 2018/6/30 18:33
  */
-@Component
+//@Component
 public class AuthBuyerFilter extends ZuulFilter {
 
     @Autowired

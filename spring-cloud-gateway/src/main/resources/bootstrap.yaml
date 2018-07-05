@@ -17,7 +17,7 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8761/eureka
+      defaultZone: http://192.168.174.128:8761/eureka
 management:
   endpoints:
     web:
@@ -30,6 +30,7 @@ zuul:
 #      serviceId: spring-cloud-product
     #简洁写法
     spring-cloud-product: /product/**
-  ignored-patterns:
-    - /**/product/listForOrder
+    spring-cloud-order: /order/**
+#  ignored-patterns:
+#    - /**/product/listForOrder
   sensitive-headers:
