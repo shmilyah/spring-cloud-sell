@@ -4,6 +4,6 @@ MAINTAINER shmily shmilyahu@outlook.com
 
 ADD *.jar app.jar
 
-EXPOSE 8888
+EXPOSE 8889
 
 ENTRYPOINT ["java", "-jar", "/app.jar"]
