@@ -11,9 +11,6 @@ spring:
       discovery:
         enabled: true
         service-id: spring-cloud-config
-  redis:
-    host: 192.168.174.128
-    port: 6379
 eureka:
   client:
     service-url:
@@ -23,14 +20,3 @@ management:
     web:
       exposure:
         include: '*'
-zuul:
-  routes:
-#    product:
-#      path: /product/**
-#      serviceId: spring-cloud-product
-    #简洁写法
-    spring-cloud-product: /product/**
-    spring-cloud-order: /order/**
-#  ignored-patterns:
-#    - /**/product/listForOrder
-  sensitive-headers:
